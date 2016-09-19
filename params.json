@@ -1,0 +1,6 @@
+{
+  "name": "XboxOneSysUpdateWatch",
+  "tagline": "Simple watcher of Xbox One System Updates",
+  "body": "### Welcome to Xbox One System Update Watch\r\n\r\nThis is a simple script that checks for updates to Xbox One system software and sends a notification to you via Twitter.\r\n\r\n\r\n### Support or Contact\r\n@GluggyMug for any issues.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
